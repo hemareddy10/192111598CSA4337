@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beauty Parlour Appointment Booking System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            background-color: #ff7e6b;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        form {
+            max-width: 400px;
+            margin: auto;
+            margin-bottom: 20px;
+        }
+        label, input, select, textarea {
+            display: block;
+            margin-bottom: 10px;
+        }
+        button {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Beauty Parlour Appointment Booking System</h1>
+    </header>
+    <section>
+        <h2>Customer</h2>
+
+        <form>
+            <h3>Search for Beauty Parlour</h3>
+
+        </form>
+        <form>
+            <h3>Book Appointment</h3>
+
+        </form>
+        <button>View Reservations Calendar</button>
+        <button>View Upcoming Reservations</button>
+        <button>View Reservations History</button>
+        <button>View Personal Data</button>
+    </section>
+    <section>
+        <h2>Salon Manager & Staff</h2>
+        <button>View Upcoming Reservations</button>
+        <button>View Reservations Calendar</button>
+        <form>
+            <h3>Add Reservation</h3>
+
+        </form>
+        <form>
+            <h3>Edit Reservations</h3>
+        </form>
+        <button>Send SMS/Call to Customer</button>
+    </section>
+    <section>
+        <h2>Feedback</h2>
+        <form>
+            <h3>Leave Feedback</h3>
+        </form>
+        <button>View Customer Feedback</button>
+    </section>
+    <section>
+        <h2>Payment</h2>
+        <form>
+            <h3>Accept Online Payments</h3>
+        </form>
+        <form>
+            <h3>Require Full Payment or Deposit</h3>
+        </form>
+        <form>
+            <h3>Automatic Cancellation of Unpaid Reservations</h3>
+        </form>
+    </section>
+
+</body>
+</html>
