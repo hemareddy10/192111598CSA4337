@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Train Reservation System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Train Reservation System</h1>
+  </header>
+  <section>
+    <h2>User</h2>
+    <form>
+      <h3>Login</h3>
+    </form>
+    <form>
+      <h3>Reservation Details</h3>
+    </form>
+    <button>Available Trains</button>
+    <form>
+      <h3>Payment</h3>
+    </form>
+    <form>
+      <h3>PNR Status</h3>
+    </form>
+  </section>
+  <section>
+    <h2>Admin</h2>
+    <form>
+      <h3>Train and Fare Details</h3>
+    </form>
+    <form>
+      <h3>Refund Rules</h3>
+    </form>
+    <form>
+      <h3>Cancel Ticket</h3>
+    </form>
+  </section>
+</body>
+</html>
