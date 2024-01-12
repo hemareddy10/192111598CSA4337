@@ -1,0 +1,69 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Library Management System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Library Management System</h1>
+  </header>
+  <section>
+    <h2>Librarian Admin</h2>
+    <form>
+      <label>Login</label>
+      <input type="text" placeholder="Username" required>
+      <input type="password" placeholder="Password" required>
+      <button type="submit">Login</button>
+    </form>
+    <form>
+      <h3>Add Book</h3>
+    </form>
+    <form>
+      <h3>Update/Delete Book</h3>
+    </form>
+    <form>
+      <h3>Issue Book for Student</h3>
+    </form>
+    <form>
+      <h3>Return Book Status</h3>
+    </form>
+    <form>
+      <h3>Make Fine</h3>
+    </form>
+    <form>
+      <h3>Update Material</h3>
+    </form>
+    <button>View Material</button>
+  </section>
+  <section>
+    <h2>User</h2>
+    <form>
+    </form>
+    <form>
+      <h3>Search Book</h3>
+    </form>
+    <button>My Borrow History</button>
+    <form>
+      <h3>Check Fine</h3>
+    </form>
+    <form>
+      <h3>Search Material</h3>
+    </form>
+    <button>Download Material</button>
+    <button>My Profile</button>
+  </section>
+</body>
+</html>
