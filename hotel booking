@@ -1,0 +1,70 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hotel Booking System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hotel Booking System</h1>
+  </header>
+  <section>
+    <h2>Users</h2>
+    <form>
+      <h3>User Registration</h3>
+    </form>
+    <button>View/Modify Profile</button>
+    <form>
+      <h3>Book a Room</h3>
+    </form>
+    <button>View Booking History</button>
+    <form>
+      <h3>Change Booking</h3>
+    </form>
+    <form>
+      <h3>Cancel Booking</h3>
+    </form>
+    <button>Check Room Availability</button>
+  </section>
+  <section>
+    <h2>Administrator</h2>
+    <form>
+      <h3>Change Room Quantity/Price</h3>
+    </form>
+    <form>
+      <h3>Change Booking Details</h3>
+    </form>
+    <form>
+      <h3>Cancel Booking by Admin</h3>
+    </form>
+    <form>
+      <h3>Modify Static Pages</h3>
+    </form>
+  </section>
+  <section>
+    <h2>Static Pages</h2>
+    <p>Basic Room Type Introduction...</p>
+    <p>Contact Information...</p>
+    <p>Customer Service Q&A...</p>
+    <p>Local Travel and Shipping Guide...</p>
+    <p>Privacy Policy...</p>
+  </section>
+</body>
+</html>
+1 comment on commit 4795ce5
+@SaiHarshitha21
+Owner
+Author
+SaiHarshitha21 commented on 4795ce5 4 days ago
